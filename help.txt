@@ -1,0 +1,6 @@
+Les options disponibles sont :
+  -i suivi du nom du fichier contenant le message a chiffrer.
+  -o suivi du nom du fichier ou l'on va ecrire le message chiffré.
+  -k suivi de la clé.
+  -m suivi du type de chiffrement (xor, cbc-crypt ou cbc-uncrypt suivi du vecteur d'initialisation).
+  -h print cette fenêtre d'aide aux commandes. Cette option annule toutes les autres.
